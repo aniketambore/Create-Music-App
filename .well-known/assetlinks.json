@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "xyz.appmaker.bedeks",
+      "sha256_cert_fingerprints": ["96:00:B7:CF:06:D1:8A:33:8E:D0:47:99:C0:C4:D8:80:A5:4A:61:C9:43:82:26:1F:29:9F:81:21:D2:94:53:03"]
+    }
+  }
+]
